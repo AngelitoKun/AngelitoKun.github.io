@@ -68,7 +68,7 @@ nav, #cabecera-menu, li, a {
     text-decoration: none;
 }
 
-nav ul li a:hover {
+nav #cabecera-menu li a:hover {
     background: #fff;
     color: #000;
 }
