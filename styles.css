@@ -41,7 +41,8 @@ body {
     margin-bottom: 0;
 	font-weight: 300;
 	font-size: 0.8em;
-	color: #999;
+	color: #fff;
+    font-family: 'Montserrat Alternates', sans-serif;
 }
 
 p {
@@ -50,6 +51,7 @@ p {
 
 nav {
 	float: right;
+    font-family: 'Montserrat Alternates', sans-serif;
 }
 
 nav #cabecera-menu {
