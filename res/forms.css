@@ -12,6 +12,7 @@
     box-shadow: 0 4px 10px #000;
     background: #070066;
     color: #fff;
+    border-radius: 20px;
 }
 
 .formularioTitulo {
@@ -23,15 +24,27 @@
     display: block;
     width: 100%;
     font-size: 0.5em;
-    color: black;
 }
 
 .formularioInput {
     padding: 20px;
     border: 1px solid rgba(0, 0, 0, 0.3);
     margin-bottom: 40px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    border-radius: 20px;
 }
 
 .formularioLabel {
-    padding-left: 15px;
+    color: white;
+}
+
+.formularioSubmit {
+    background: #27AE60;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 0.7em;
 }
